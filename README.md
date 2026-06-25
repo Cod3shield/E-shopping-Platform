@@ -95,7 +95,7 @@ The main objective of this project is to develop a complete e-commerce platform 
 ### Clone Repository
 
 bash
-git clone https://github.com/your-username/shopit.git
+git clone https://github.com/Cod3shield/E-shopping-Platform
 
 
 ### Install Frontend Dependencies
